@@ -7,6 +7,8 @@
 - 🧪 Looking to collaborate on LLM research, NLP projects, and AI-driven tools
 - ⚽ Outside of tech: gym, football, volleyball, and lifelong learning!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-F-Scatolin&layout=compact)
+
 📫 Reach me at: [LinkedIn](linkedin.com/in/matheus-ferracciú-scatolin-4b370b275) | [Email](mailto:m252099@dac.unicamp.br)  
 🐙 Explore my work below!
 
