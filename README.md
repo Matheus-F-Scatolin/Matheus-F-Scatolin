@@ -7,6 +7,7 @@
 - 🧪 Looking to collaborate on LLM research, NLP projects, and AI-driven tools
 - ⚽ Outside of tech: gym, football, volleyball, and lifelong learning!
 
+Check my [Personal Website](https://matheus-scatolin.vercel.app/) out! 
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matheus-F-Scatolin&layout=compact&theme=dark)
 
